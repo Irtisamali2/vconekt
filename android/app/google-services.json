@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "198650548738",
+    "project_id": "vconekt-2f601",
+    "storage_bucket": "vconekt-2f601.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198650548738:android:35a6e037d91765f0bacd1b",
+        "android_client_info": {
+          "package_name": "com.example.vconekt_interview"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHFIT-UQ74I5pmxpSA-xjDI7eXrcbHzlk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
